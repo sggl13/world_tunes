@@ -43,7 +43,6 @@ class RadioProvider with ChangeNotifier {
   ViewState<dynamic> get viewState => _viewState;
   set viewState(ViewState<dynamic> viewState) {
     _viewState = viewState;
-    notifyListeners();
   }
 
   final AudioPlayer _audioPlayer = AudioPlayer();
