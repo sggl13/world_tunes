@@ -13,9 +13,8 @@ World Tunes is a Flutter web application that allows users to explore and listen
 
 ## Project Structure
 
-- `lib/core`: Contains the core logic of the application, including providers, services, models, enums, and utilities.
+- `lib/core`: Contains the core logic of the application, including providers, services, models, enums, routing, and utilities.
 - `lib/ui`: Contains the UI components of the application, including screens, views, and widgets.
-- `lib/routing`: Contains the routing configuration for the application.
 
 ## Setup Instructions
 
