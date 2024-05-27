@@ -1,0 +1,1 @@
+enum ResponseState { EMPTY, LOADING, COMPLETE, ERROR }
